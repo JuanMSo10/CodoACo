@@ -1,4 +1,27 @@
+body{
+    background-color:wheat; /*Color de fondo*/
+}
 p {
     color: red;
 
+}
+/*
+#Parf1 {
+  color: aqua;
+}
+*/
+#Parf2 {
+    color:chocolate
+  }
+
+.parrafo1{
+    color: turquoise;
+}
+
+p.parrafo1{
+    color: black;
+}
+
+p#Parf1{
+    color: blue;
 }
