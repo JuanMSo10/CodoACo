@@ -1,0 +1,38 @@
+html{
+    box-sizing: border-box;
+}
+.cajita{
+    width: 200px;
+    height: 200px;
+    background-color: brown;
+    padding: 20px;
+    text-align: center;
+}
+
+.border{
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    background-color: brown;
+    text-align: center;
+}
+
+.margin{
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    background-color: brown;
+    text-align: center;
+    margin: 20px;
+}
+
+
+.caja-completa{
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    background-color: brown;
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+}
